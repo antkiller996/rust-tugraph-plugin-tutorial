@@ -1,4 +1,5 @@
 # TuGraph中使用Rust语言编写插件
+***❗️❗️❗️最新的tutorial已经捐献给tugraph-db维护：[TuGraph-family/rust-tugraph-plugin-tutorial]❗️❗️❗️***.
 
 TuGraph是一个高性能图数据库，它支持标准的Cypher查询语言，同时也支持插件机制，用户可以通过插件机制来扩展TuGraph的功能。TuGraph插件机制支持多种语言，包括C++, Python, Rust等。本文将介绍如何使用Rust语言编写TuGraph插件。
 
@@ -8,6 +9,7 @@ TuGraph是一个高性能图数据库，它支持标准的Cypher查询语言，�
 - 如何编写rust-tugraph插件
 - 如何在TuGraph中上传及使用rust插件
 
+[TuGraph-family/rust-tugraph-plugin-tutorial]: https://github.com/TuGraph-family/rust-tugraph-plugin-tutorial
 本教程所有代码都在[这里](https://github.com/antkiller996/rust-tugraph-plugin-tutorial)。
 
 
